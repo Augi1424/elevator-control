@@ -1,3 +1,3 @@
 # elevator-controler on stm32
-a simple STM32 project for elevator controlling  
+a simple STM32 project for elevator control  
 logical judgment for elevator operation and floor calling has not been established yet😒
