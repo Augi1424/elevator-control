@@ -1,2 +1,2 @@
-# elevator-control
-a simple project for elevator controlling
+# elevator-controler on stm32
+a simple STM32 project for elevator controlling
